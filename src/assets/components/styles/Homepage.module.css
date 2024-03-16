@@ -1,0 +1,387 @@
+.info {
+  margin: 20px;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+}
+
+.normalh2 {
+  text-align: center;
+}
+
+img {
+  width: 50vw;
+  height: 50vh;
+}
+
+.palette {
+  width: 20vw;
+  height: 40vh;
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+
+.first1 {
+  width: 20vw;
+  height: 10vh;
+  background-color: #222831;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border: 1px solid salmon;
+  border-bottom: none;
+  position: relative;
+}
+
+.tip11 {
+  display: none;
+}
+
+.first1:hover > .tip11 {
+  display: block;
+  background-color: grey;
+  position: absolute;
+  padding: 2px;
+  border-radius: 2px;
+  bottom: 0;
+}
+
+.second1 {
+  width: 20vw;
+  height: 10vh;
+  background-color: #31363F;
+  border: 1px solid salmon;
+  border-bottom: none;
+  position: relative;
+}
+
+.tip12 {
+  display: none;
+}
+
+.second1:hover > .tip12 {
+  display: block;
+  background-color: grey;
+  position: absolute;
+  padding: 2px;
+  border-radius: 2px;
+  bottom: 0;
+}
+
+.third1 {
+  width: 20vw;
+  height: 10vh;
+  background-color: #76ABAE;
+  border: 1px solid salmon;
+  border-bottom: none;
+  position: relative;
+}
+
+.tip13 {
+  display: none;
+}
+
+.third1:hover > .tip13 {
+  display: block;
+  background-color: grey;
+  position: absolute;
+  padding: 2px;
+  border-radius: 2px;
+  bottom: 0;
+}
+
+.fourth1 {
+  width: 20vw;
+  height: 10vh;
+  background-color: #EEEEEE;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border: 1px solid salmon;
+  position: relative;
+}
+
+.tip14 {
+  display: none;
+}
+
+.fourth1:hover > .tip14 {
+  display: block;
+  background-color: grey;
+  position: absolute;
+  padding: 2px;
+  border-radius: 2px;
+  bottom: 0;
+}
+
+.first2 {
+  width: 20vw;
+  height: 10vh;
+  background-color: #FFE6E6;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border: 1px solid salmon;
+  border-bottom: none;
+  position: relative;
+}
+
+.tip21 {
+  display: none;
+}
+
+.first2:hover > .tip21 {
+  display: block;
+  background-color: grey;
+  position: absolute;
+  padding: 2px;
+  border-radius: 2px;
+  bottom: 0;
+}
+
+.second2 {
+  width: 20vw;
+  height: 10vh;
+  background-color: #E1AFD1;
+  border: 1px solid salmon;
+  border-bottom: none;
+  position: relative;
+}
+
+.tip22 {
+  display: none;
+}
+
+.second2:hover > .tip22 {
+  display: block;
+  background-color: grey;
+  position: absolute;
+  padding: 2px;
+  border-radius: 2px;
+  bottom: 0;
+}
+
+.third2 {
+  width: 20vw;
+  height: 10vh;
+  background-color: #AD88C6;
+  border: 1px solid salmon;
+  border-bottom: none;
+  position: relative;
+}
+
+.tip23 {
+  display: none;
+}
+
+.third2:hover > .tip23 {
+  display: block;
+  background-color: grey;
+  position: absolute;
+  padding: 2px;
+  border-radius: 2px;
+  bottom: 0;
+}
+
+.fourth2 {
+  width: 20vw;
+  height: 10vh;
+  background-color: #7469B6;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border: 1px solid salmon;
+  position: relative;
+}
+
+.tip24 {
+  display: none;
+}
+
+.fourth2:hover > .tip24 {
+  display: block;
+  background-color: grey;
+  position: absolute;
+  padding: 2px;
+  border-radius: 2px;
+  bottom: 0;
+}
+
+.first3 {
+  width: 20vw;
+  height: 10vh;
+  background-color: #496989;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border: 1px solid salmon;
+  border-bottom: none;
+  position: relative;
+}
+
+.tip31 {
+  display: none;
+}
+
+.first3:hover > .tip31 {
+  display: block;
+  background-color: grey;
+  position: absolute;
+  padding: 2px;
+  border-radius: 2px;
+  bottom: 0;
+}
+
+.second3 {
+  width: 20vw;
+  height: 10vh;
+  background-color: #58A399;
+  border: 1px solid salmon;
+  border-bottom: none;
+  position: relative;
+}
+
+.tip32 {
+  display: none;
+}
+
+.second3:hover > .tip32 {
+  display: block;
+  background-color: grey;
+  position: absolute;
+  padding: 2px;
+  border-radius: 2px;
+  bottom: 0;
+}
+
+.third3 {
+  width: 20vw;
+  height: 10vh;
+  background-color: #A8CD9F;
+  border: 1px solid salmon;
+  border-bottom: none;
+  position: relative;
+}
+
+.tip33 {
+  display: none;
+}
+
+.third3:hover > .tip33 {
+  display: block;
+  background-color: grey;
+  position: absolute;
+  padding: 2px;
+  border-radius: 2px;
+  bottom: 0;
+}
+
+.fourth3 {
+  width: 20vw;
+  height: 10vh;
+  background-color: #E2F4C5;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border: 1px solid salmon;
+  position: relative;
+}
+
+.tip34 {
+  display: none;
+}
+
+.fourth3:hover > .tip34 {
+  display: block;
+  background-color: grey;
+  position: absolute;
+  padding: 2px;
+  border-radius: 2px;
+  bottom: 0;
+}
+
+.first4 {
+  width: 20vw;
+  height: 10vh;
+  background-color: #35374B;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border: 1px solid salmon;
+  border-bottom: none;
+  position: relative;
+}
+
+.tip41 {
+  display: none;
+}
+
+.first4:hover > .tip41 {
+  display: block;
+  background-color: grey;
+  position: absolute;
+  padding: 2px;
+  border-radius: 2px;
+  bottom: 0;
+}
+
+.second4 {
+  width: 20vw;
+  height: 10vh;
+  background-color: #344955;
+  border: 1px solid salmon;
+  border-bottom: none;
+  position: relative;
+}
+
+.tip42 {
+  display: none;
+}
+
+.second4:hover > .tip42 {
+  display: block;
+  background-color: grey;
+  position: absolute;
+  padding: 2px;
+  border-radius: 2px;
+  bottom: 0;
+}
+
+.third4 {
+  width: 20vw;
+  height: 10vh;
+  background-color: #50727B;
+  border: 1px solid salmon;
+  border-bottom: none;
+  position: relative;
+}
+
+.tip43 {
+  display: none;
+}
+
+.third4:hover > .tip43 {
+  display: block;
+  background-color: grey;
+  position: absolute;
+  padding: 2px;
+  border-radius: 2px;
+  bottom: 0;
+}
+
+.fourth4 {
+  width: 20vw;
+  height: 10vh;
+  background-color: #78A083;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border: 1px solid salmon;
+  position: relative;
+}
+
+.tip44 {
+  display: none;
+}
+
+.fourth4:hover > .tip44 {
+  display: block;
+  background-color: grey;
+  position: absolute;
+  padding: 2px;
+  border-radius: 2px;
+  bottom: 0;
+}

@@ -1,0 +1,119 @@
+.firstlayout {
+  margin: 10px;
+  background-color: #31363F;
+  width: 50%;
+  color: #EEEEEE;
+  float: left;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.secondlayout {
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px 10px 0 50%;
+  color: #EEEEEE;
+  background-color: #31363F;
+}
+
+.data {
+  margin-bottom: 30px;
+}
+
+.data > h2 {
+  font-weight: 300;
+  margin: 15px;
+}
+
+.button {
+  margin-left: 10px;
+  padding: 5px;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  background-color: #EEEEEE;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.data > .maker {
+  display: flex;
+  flex-direction: column;
+  padding: 10px 20vw 0 0;
+}
+
+.inputmaker {
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  outline: 0;
+  transition: .2s ease-in-out;
+}
+
+.inputmaker:focus {
+  color: #212529;
+  background-color: #fff;
+  border-color: #bdbdbd;
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(118, 171, 174, .5);
+}
+
+.cvhead {
+  padding: 0 0 0 20px;
+}
+
+.cvhead > h2 {
+  font-weight: 400;
+  padding: 10px;
+}
+
+.cvimage {
+  float: right;
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+  border-radius: 50%;
+}
+
+.line {
+  height: 1px;
+  background-color: #EEEEEE;
+}
+
+.cvinfo {
+  padding: 20px;
+  float: left;
+}
+
+.cvdatadesc {
+  padding-bottom: 50px;
+}
+
+.cvdatadesc > h2 {
+  margin-bottom: 20px;
+  font-weight: 300;
+}
+
+.cvdata {
+  padding-bottom: 100px;
+}
+
+.cvdata > h2 {
+  font-weight: 300;
+  padding-bottom: 30px;
+}
+
+.cvpersonalinfo {
+  padding-top: 10px;
+  float: right;
+  border-left: 1px solid #EEEEEE;
+}
+
+.cvpersonalinfo > h2, .cvpersonalinfo > p {
+  padding: 5px;
+}
+
+.cvpersonalinfo > h2 {
+  font-weight: 450;
+}

@@ -1,0 +1,20 @@
+.notfound {
+  color: red;
+  font-weight: 500;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  align-items: center;
+  flex-direction: column;
+}
+
+.notfound > a {
+  padding: 5px;
+  text-decoration: none;
+  font-weight: 400;
+  transition: .2s ease-in-out;
+}
+
+.notfound > a:hover {
+  color: #222831;
+}

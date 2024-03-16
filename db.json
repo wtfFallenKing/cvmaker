@@ -1,0 +1,72 @@
+{
+  "resume": [
+    {
+      "id": "1",
+      "name": "Джэйсон Момоа",
+      "profession": "Актёр",
+      "imageUrl": "https://grizly.club/uploads/posts/2023-08/1692743286_grizly-club-p-kartinki-kruzhok-dlya-avatarki-bez-fona-61.png",
+      "address": "Кудымкар, Россия",
+      "phoneNumber": "+7 127 355-20-11",
+      "email": "jasonmomoa@mail.ru",
+      "description": "Умный, красивый, талантливый, но американец",
+      "skills": "Выебываться",
+      "university": "Голливуд",
+      "city": "Самара, Россия",
+      "degree": "Бакалавр",
+      "subject": "Актёрское мастерство",
+      "from": "1984",
+      "to": "1988"
+    },
+    {
+      "id": "2",
+      "name": "John Smith",
+      "profession": "Software engineer",
+      "imageUrl": "https://grizly.club/uploads/posts/2023-08/1692743286_grizly-club-p-kartinki-kruzhok-dlya-avatarki-bez-fona-61.png",
+      "address": "New York, USA",
+      "phoneNumber": "+1 234 567-89-00",
+      "email": "johnsmith@gmail.ru",
+      "description": "Hard-working, skilled, good adaptability, 6'0",
+      "skills": "JSON",
+      "university": "MIT",
+      "city": "Massachusetts, USA",
+      "degree": "Bachelor of computer science",
+      "subject": "Applied mathematics and computer science",
+      "from": "2017",
+      "to": "2021"
+    },
+    {
+      "id": "46ee",
+      "name": "Артём Алексеевич",
+      "profession": "Фронтенд-разработчик",
+      "imageUrl": "https://sun9-75.userapi.com/impg/oMnV5H1CubsgCxWeP7rhJwjykkOQ3U56CSoYXw/JBE8zTObQBo.jpg?size=1080x720&quality=95&sign=d89bed8c803f548fcda94dcc5930a40d&c_uniq_tag=8jwhelVvM1cuMlD89Bi2zNYFRmGyi4TyPBo7t4Aq2pA&type=album",
+      "address": "Россия, Пермь",
+      "phoneNumber": "88005553535",
+      "email": "mmm@mail.ru",
+      "description": "Интеллектуал",
+      "skills": "Senior JSON developer",
+      "university": "Поликек",
+      "city": "Пермь, Россия",
+      "degree": "Бакалавр",
+      "subject": "ПМИ",
+      "from": "2023",
+      "to": "2027"
+    },
+    {
+      "id": "d01c",
+      "name": "Сергей Жуков",
+      "profession": "Фуллстек-разработчик",
+      "imageUrl": "http://melodiya-lubvi.ru/wp-content/uploads/2020/10/elegant.jpg",
+      "address": "Пермь, Россия",
+      "phoneNumber": "88005553535",
+      "email": "miha@yahoo.com",
+      "description": "Нифига себе он тупой",
+      "skills": "Всё на низчайшем уровне",
+      "university": "НИУ ВШЭ",
+      "city": "Москва, Россия",
+      "degree": "Бакалавр",
+      "subject": "ПМИ",
+      "from": "2023",
+      "to": "2027"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+.cvlist {
+  display: flex;
+  flex-direction: column;
+  color: #31363F;
+}
+
+.image {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.person {
+  padding: 100px;
+  background-color: #31363F;
+  border-radius: 20px;
+  margin: 20px;
+  color: #EEEEEE;
+}
+
+.person > p {
+  padding-top: 10px;
+}
