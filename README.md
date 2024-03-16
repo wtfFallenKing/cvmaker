@@ -2,7 +2,8 @@
 
 Чтобы заработало:
 
-```npm install
+```
+  npm install
   yarn dev
   json-server --port 4200 --watch
 ```
